@@ -1,0 +1,31 @@
+read_Reserved Word
+identifier_x
+;_Special Symbol 
+if_Reserved Word
+number_0
+<_Special Symbol 
+identifier_x
+then_Reserved Word
+identifier_fact
+:=_ Assignment
+number_1
+;_Special Symbol 
+repeat_Reserved Word
+identifier_fact
+:=_ Assignment
+identifier_fact
+*_Special Symbol 
+identifier_x
+;_Special Symbol 
+identifier_x
+:=_ Assignment
+identifier_x
+-_Special Symbol 
+number_100
+until_Reserved Word
+identifier_x
+=_Special Symbol 
+number_0
+;_Special Symbol 
+write_Reserved Word
+identifier_fact

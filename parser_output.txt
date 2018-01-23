@@ -1,0 +1,62 @@
+Read Word is Found
+Read Statement is Found
+semicolon is found
+(if) reserved word is found
+Factor is Found
+Term is Found
+Simple_Exp is Found
+Comparsion Op is Found
+Factor is Found
+Term is Found
+Simple_Exp is Found
+Expression is Found
+(then) reserved word is found
+Factor is Found
+Assignment Symbol is Found
+Factor is Found
+Term is Found
+Simple_Exp is Found
+Expression is Found
+Assignment Statement is Found
+semicolon is found
+repeat reserved word is Found
+Factor is Found
+Assignment Symbol is Found
+Factor is Found
+MulOp is Found
+Factor is Found
+Term is Found
+Simple_Exp is Found
+Expression is Found
+Assignment Statement is Found
+semicolon is found
+Factor is Found
+Assignment Symbol is Found
+Factor is Found
+Term is Found
+AddOp is Found
+Factor is Found
+Term is Found
+Simple_Exp is Found
+Expression is Found
+Assignment Statement is Found
+Statement Sequence is Found
+until reserved word is found
+Factor is Found
+Term is Found
+Simple_Exp is Found
+Comparsion Op is Found
+Factor is Found
+Term is Found
+Simple_Exp is Found
+Expression is Found
+Repeat Statement is Found
+semicolon is found
+Write Word is Found
+Factor is Found
+Term is Found
+Simple_Exp is Found
+Expression is Found
+Write Statement is Found
+Statement Sequence is Found
+If Statement Syntax Error
